@@ -1,0 +1,7 @@
+CREATE DATABASE IF NOT EXISTS foodresq_auth;
+CREATE DATABASE IF NOT EXISTS foodresq_donor;
+CREATE DATABASE IF NOT EXISTS foodresq_recipient;
+CREATE DATABASE IF NOT EXISTS foodresq_donation;
+CREATE DATABASE IF NOT EXISTS foodresq_matching;
+CREATE DATABASE IF NOT EXISTS foodresq_logistics;
+CREATE DATABASE IF NOT EXISTS foodresq_notification;
